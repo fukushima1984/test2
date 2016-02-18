@@ -38,6 +38,7 @@ vm追加
 5	05	ENQ	Enquery	問い合わせ
 6	06	ACK	Acknowledgement	肯定応答
 7	07	BEL	Bell	警告音を鳴らす
+tests
 8	08	BS	Back Space	一文字後退
 9	09	HT	Horizontal Tabulation	水平タブ
 30	1e	RS	Record Separator	レコード区切り
