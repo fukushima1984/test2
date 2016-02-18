@@ -1,5 +1,5 @@
 remoCode1wewe
-testmarge
+testmarge2
 ▼ ASCII制御コードの由来
 10進	16進	コード	フルスペル	意味・用法
 0	00	NUL	Null	空文字
