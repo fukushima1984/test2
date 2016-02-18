@@ -1,5 +1,9 @@
 remoCode1wewe
+<<<<<<< HEAD
 testmarge3
+=======
+testmarge2
+>>>>>>> origin/vm/b1641
 ▼ ASCII制御コードの由来
 10進	16進	コード	フルスペル	意味・用法
 0	00	NUL	Null	空文字
