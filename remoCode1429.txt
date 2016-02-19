@@ -4,7 +4,7 @@ testmarge234
 10進	16進	コード	フルスペル	意味・用法
 0	00	NUL	Null	空文字
 1	01	SOH	Start Of Heading	ヘッダ開始
-2	02	STX	Start Of Text	テキスト開始
+2	02	STX	Start Of Text	テキスト開始testst
 3	03	ETX	End Of Text	テキスト終了
 4	04	EOT	End Of Transmission	伝送終了
 5	05	ENQ	Enquery	問い合わせ
