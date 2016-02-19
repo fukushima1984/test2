@@ -8,7 +8,7 @@ testmarge234
 3	03	ETX	End Of Text	テキスト終了
 4	04	EOT	End Of Transmission	伝送終了
 5	05	ENQ	Enquery	問い合わせ
-vm追加
+vm追加testst
 rm追加
 6	06	ACK	Acknowledgement	肯定応答test
 12	0c	FF / NP	Form Feed / New Page	改ページ
