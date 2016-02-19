@@ -8,8 +8,13 @@ testmarge234
 3	03	ETX	End Of Text	テキスト終了
 4	04	EOT	End Of Transmission	伝送終了
 5	05	ENQ	Enquery	問い合わせ
+<<<<<<< HEAD
 vm追加testst
 rm追加
+=======
+vm追加
+rm追加tes
+>>>>>>> origin/rmb1722b
 6	06	ACK	Acknowledgement	肯定応答test
 12	0c	FF / NP	Form Feed / New Page	改ページ
 13	0d	CR	Carriage Return	行頭復帰
@@ -38,6 +43,7 @@ vm追加
 5	05	ENQ	Enquery	問い合わせ
 6	06	ACK	Acknowledgement	肯定応答
 7	07	BEL	Bell	警告音を鳴らす
+tests
 8	08	BS	Back Space	一文字後退
 9	09	HT	Horizontal Tabulation	水平タブ
 30	1e	RS	Record Separator	レコード区切り
