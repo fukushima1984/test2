@@ -2,7 +2,7 @@ remoCode1wewe
 testmarge234
 ▼ ASCII制御コードの由来
 10進	16進	コード	フルスペル	意味・用法
-0	00	NUL	Null	空文字
+0	00	NUL	Null	空文字wewew
 1	01	SOH	Start Of Heading	ヘッダ開始
 2	02	STX	Start Of Text	テキスト開始
 3	03	ETX	End Of Text	テキスト終了

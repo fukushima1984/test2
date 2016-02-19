@@ -2,7 +2,7 @@ remoCode1wewe
 testmarge234
 ▼ ASCII制御コードの由来
 10進	16進	コード	フルスペル	意味・用法
-0	00	NUL	Null	空文字
+0	00	NUL	Null	空文字wew
 	否定応答
 22	16	SYN	Synchronous idle	同期
 23	17	ETB	End of Transmission Block	伝送ブロック終了
