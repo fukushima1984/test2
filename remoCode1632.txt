@@ -3,7 +3,18 @@ testmarge234
 ▼ ASCII制御コードの由来
 10進	16進	コード	フルスペル	意味・用法
 0	00	NUL	Null	空文字
-1	01	SOH	Start Of Heading	ヘッダ開始
+	否定応答
+22	16	SYN	Synchronous idle	同期
+23	17	ETB	End of Transmission Block	伝送ブロック終了
+24	18	CAN	Cancel	取り消し
+24a	18	CAN	Cancel	取り消し
+24b	18	CAN	Cancel	取り消し
+25	19	EM	End of Medium	記録媒体終端
+26	1a	SUB / EOF	Substitute / End Of File	文字置換 / ファイル終端
+27	1b	ESC	Escape	エスケープ(特殊文字開始)
+28	1c	FS	File Separator	ファイル区切り
+rm追加
+29	1d	GS	Group Separator	グループ区切り1	01	SOH	Start Of Heading	ヘッダ開始
 2	02	STX	Start Of Text	テキスト開始
 3	03	ETX	End Of Text	テキスト終了
 4	04	EOT	End Of Transmission	伝送終了
@@ -20,18 +31,7 @@ rm追加tes
 18	12	DC2	Device Control 2rm編集	装置vm編集制御2
 19	13	DC3	Device Control 3	装置制御3
 20	14	DC4	Device Control 4	装置制御4
-21	15	NAK	Negative Acknowledgement	否定応答
-22	16	SYN	Synchronous idle	同期
-23	17	ETB	End of Transmission Block	伝送ブロック終了
-24	18	CAN	Cancel	取り消し
-24a	18	CAN	Cancel	取り消し
-24b	18	CAN	Cancel	取り消し
-25	19	EM	End of Medium	記録媒体終端
-26	1a	SUB / EOF	Substitute / End Of File	文字置換 / ファイル終端
-27	1b	ESC	Escape	エスケープ(特殊文字開始)
-28	1c	FS	File Separator	ファイル区切り
-rm追加
-29	1d	GS	Group Separator	グループ区切り
+21	15	NAK	Negative Acknowledgement
 vm追加
 3	03	ETX	End Of Text	テキスト終了
 4	04	EOT	End Of Transmission	伝送終了
